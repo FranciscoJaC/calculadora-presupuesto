@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/calculadora-presupuesto/static/js/main.9e7bc13a.js",
+    "index.html": "/calculadora-presupuesto/index.html",
+    "main.9e7bc13a.js.map": "/calculadora-presupuesto/static/js/main.9e7bc13a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9e7bc13a.js"
+  ]
+}
